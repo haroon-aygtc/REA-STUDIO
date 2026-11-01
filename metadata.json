@@ -1,0 +1,6 @@
+{
+  "name": "REA Reverse Engineering Studio",
+  "description": "Local browser-based reverse engineering studio with multi-agent isometric operations floor, clean-room spec verification, and neural atlas memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
